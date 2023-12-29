@@ -1,0 +1,41 @@
+.input-box input{
+    width:316px;
+    height: 42px;
+    border: 1.5px solid #F0F1F7;
+    border-radius: 5px;
+    
+    background: linear-gradient(0deg, #FCFDFE, #FCFDFE),
+    linear-gradient(0deg, #F0F1F7, #F0F1F7);
+   
+
+}
+.form input{
+    color: #4B506D;
+}
+.form span{
+    float: left;
+    color:#9FA2B4;
+    font-size: 12px;
+}
+.form #forgote{
+    color: #9FA2B4;
+    font-size: 10px;
+    float: right;
+}
+.input-box {
+    margin: 25px 0px;
+}
+.password-eye input{
+   
+    /* display: flex; */
+    /* margin-bottom: 6px; */
+    /* flex-direction: row; */
+}
+.password-eye{
+    /* display: flex; */
+}
+.password-eye #eye{
+    display: flex;
+    justify-content: space-around;
+    place-items: center;
+}

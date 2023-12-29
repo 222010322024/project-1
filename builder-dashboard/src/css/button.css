@@ -1,0 +1,22 @@
+.btn {
+  text-align: center;
+  /* width: 50%; */
+  border: 1px solid;
+  font-size: 14px;
+  background-color: #452983;
+  color: #ffffff;
+  border-radius: 10px;
+  height: 48px;
+  letter-spacing: 0.3px;
+  /* padding: 15px 20px; */
+}
+.b1 {
+  margin-right: 8px;
+}
+.b2 {
+  margin-left: 8px;
+}
+.b3 {
+  height: 134px;
+  width: 250px;
+}

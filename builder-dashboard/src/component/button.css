@@ -1,0 +1,25 @@
+.btn {
+  padding: 10px 23px;
+  margin: 15px 0;
+  margin-top: 20px;
+  background-color: #37266f;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  height: 48px;
+  width: 316px;
+}
+
+.disabled {
+  padding: 10px 23px;
+  margin: 15px 0;
+  margin-top: 20px;
+  background: #4b3c7d;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  height: 48px;
+  width: 316px;
+  cursor: not-allowed;
+}

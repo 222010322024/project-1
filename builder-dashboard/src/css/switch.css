@@ -1,0 +1,33 @@
+.toggle-slide {
+  /* margin: 100px 200px; */
+  border: 3px solid #452983;
+  height: 20px;
+  width: 45px;
+  border-radius: 10px;
+  /* background-color: aliceblue; */
+  position: relative;
+  transition: all 200ms;
+  cursor: pointer;
+}
+
+.switch {
+  height: 100%;
+  width: 20px;
+  background-color: white;
+  border: 3px solid #452983;
+  border-radius: 999px;
+  position: absolute;
+  top: 0px;
+  left: 0;
+  /* right: 100%; */
+  transition: ease-in 200ms;
+  cursor: pointer;
+}
+
+.slide {
+  transition: ease-in 200ms;
+  position: absolute;
+  /* right: 0; */
+  left: 52%;
+  cursor: pointer;
+}
